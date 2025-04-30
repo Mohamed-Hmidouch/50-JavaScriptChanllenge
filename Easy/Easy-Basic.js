@@ -1,4 +1,4 @@
-import employees from './employees.js';
+import employees from '../employees.js';
 
 
 // function getFirstEmployeeFirstName(){
